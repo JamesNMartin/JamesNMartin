@@ -1,6 +1,6 @@
 # Hello! I'm James Martin 👋
 
-- 👀 I’m interested in software development and virtualiztion!
+- 👀 I’m interested in AI and Machine Learning
 - 💻 I'm a Software Developer and Engineer at Hewlett Packard Enterprise 
 - 🌱 I’m currently learning PowerShell and Python
 - 🌐 I'm on Twitter https://twitter.com/JamesNMartin
