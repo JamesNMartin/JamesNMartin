@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI and Machine Learning
 - 💻 I'm a Software Developer and Engineer at Hewlett Packard Enterprise 
 - 🌱 I’m currently Swift, Python, and Azure Cloud
-- 🌐 I'm on <a rel="me" href="https://mastodon.social/@JamesNMartin">Mastodon</a>
+- 🌐 I'm on <a rel="me" href="https://0x000.co/@james">Mastodon</a>
 - 🌐 I'm on [LinkedIn](https://www.linkedin.com/in/jmsnmrtn)
 - ⚡ Fun fact: I've driven the Seattle Monorail!
 
